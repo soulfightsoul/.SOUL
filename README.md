@@ -43,6 +43,10 @@ mais elle sera bientôt prise en charge par tous les principaux moteurs de jeux 
 Cela permettra aux créateurs d'utiliser les fichiers .SOUL de manière efficace dans leurs flux de travail de développement de jeux et de production vidéo.
 Conçue pour préserver la liberté d'expression, l'extension .SOUL aide les créateurs à insuffler de l'« âme » à leurs œuvres et à élargir leurs possibilités créatives.
 
+
+<img width="700" height="759" alt="SOULSEARCHSOUL_ANIMATED" src="https://github.com/user-attachments/assets/48ac0b4c-3506-4bfe-9625-3e2ddb640558" />
+
+
 特徴 / Features / Caractéristiques
 
 透過アニメーションとMP3音声の統合
