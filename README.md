@@ -1,6 +1,5 @@
 
-<img width="406" height="903" alt="REALGIRL_RECREATED_FROM_JPEG" src="https://github.com/user-attachments/assets/6b6c0681-450a-49a2-949d-b84a2e271f68" />
-
+<img width="180" height="400" alt="SOULBONDSOUL_GIRL" src="https://github.com/user-attachments/assets/9230e301-0208-4c4c-809a-919eafde5ba5" />
 
 ## ▶.SOUL files
 
