@@ -1,4 +1,4 @@
-<img width="700" height="759" alt="SOULSEARCHSOUL_ANIMATED" src="https://github.com/user-attachments/assets/48ac0b4c-3506-4bfe-9625-3e2ddb640558" />
+
 
 ## ▶.SOUL files
 -----------------------------------------------------------------------------------------------------------------------
@@ -14,8 +14,7 @@
 
 # .SOUL Extension
 
-
-<img width="180" height="400" alt="SOULBONDSOUL_GIRL" src="https://github.com/user-attachments/assets/9230e301-0208-4c4c-809a-919eafde5ba5" />
+<img width="700" height="759" alt="SOULSEARCHSOUL_ANIMATED" src="https://github.com/user-attachments/assets/48ac0b4c-3506-4bfe-9625-3e2ddb640558" />
 
 ## About
 
@@ -45,7 +44,7 @@ Cela permettra aux créateurs d'utiliser les fichiers .SOUL de manière efficace
 Conçue pour préserver la liberté d'expression, l'extension .SOUL aide les créateurs à insuffler de l'« âme » à leurs œuvres et à élargir leurs possibilités créatives.
 
 
-<img width="700" height="759" alt="SOULSEARCHSOUL_ANIMATED" src="https://github.com/user-attachments/assets/48ac0b4c-3506-4bfe-9625-3e2ddb640558" />
+<img width="180" height="400" alt="SOULBONDSOUL_GIRL" src="https://github.com/user-attachments/assets/9230e301-0208-4c4c-809a-919eafde5ba5" />
 
 
 特徴 / Features / Caractéristiques
