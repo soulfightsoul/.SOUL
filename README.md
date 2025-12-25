@@ -53,7 +53,8 @@ Transparent animations with MP3 sound integration.
 ## PNGとMP3のコラージュ
 A unique blend of PNG transparency and MP3 sound.
 
-## ゲームエンジン（Unity、UE4など）、映像編集ツール（Premiere Pro、After Effects）に対応予定
+## ゲームエンジン（Unity、UE4など）
+映像編集ツール（Premiere Pro、After Effects）に対応予定
 Future support for game engines (Unity, UE4,GameMaker, RPG MAKER, GODOT,Pygame) and video editing tools (Premiere Pro, After Effects).
 
 ## 表現の自由を守る
